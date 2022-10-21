@@ -2,6 +2,8 @@
 name = "carded"
 version = "0.0.1"
 edition = "2021"
+license = "MIT"
+description = "A Card learning programm written in Rust."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
